@@ -16,3 +16,7 @@
 	- Rio Branco
 	- Salto do Céu
 	- São José dos Quatro Marcos
+
+Analise superficial **homonimos**
+
+![](https://raw.githubusercontent.com/ledigofig/Auxilio-Emergencial/master/analise%20com%20homonimos.svg)
