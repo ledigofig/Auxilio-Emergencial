@@ -19,6 +19,6 @@
 
 Analise superficial **homonimos**
 
-![](src/img/Screenshot_2020-08-03 analise_municipios - Jupyter Notebook.png)
+![](https://github.com/ledigofig/Auxilio-Emergencial/blob/master/src/img/Screenshot_2020-08-03%20analise_municipios%20-%20Jupyter%20Notebook.png)
 
 ![](https://raw.githubusercontent.com/ledigofig/Auxilio-Emergencial/master/analise%20com%20homonimos.svg)
